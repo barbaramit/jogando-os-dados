@@ -1,6 +1,14 @@
 # jogando-os-dados
 Análise exploratória de dados em diferentes datasets.
 
+## 1. Análise de Dados - Panorama Covid-19
+  - Leia o notebook do projeto: [Panorama Covid-19](https://github.com/barbaramit/Airbnb_Data_Analysis_SF/blob/main/Analisando_os_Dados_Airbnb_SF.ipynb).
+
+###  🚀 Ferramentas 
+
+    - 💻 Bibliotecas: Pandas, Seaborn, Matplotlib, Missingno, Numpy e Plotly.
+    - 💡 Google Colaboratory.
+
 ## 1. Análise de Dados - Airbnb em San Francisco, California
   - Leia o notebook do projeto: [Análise de Dados - Airbnb SF](https://github.com/barbaramit/Airbnb_Data_Analysis_SF/blob/main/Analisando_os_Dados_Airbnb_SF.ipynb).
 
