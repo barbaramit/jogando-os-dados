@@ -2,7 +2,7 @@
 Análise exploratória de dados em diferentes datasets.
 
 ## 1. Análise de Dados - Panorama Covid-19
-  - Leia o notebook do projeto: [Panorama do Covid-19](https://github.com/barbaramit/jogando-os-dados/blob/main/Panorama_do_COVID_19.ipynb).
+  - Leia o notebook do projeto: [Panorama do Covid-19](https://github.com/barbaramit/jogando-os-dados/blob/main/Panorama_do_COVID19.ipynb).
 
 ###  🚀 Ferramentas 
 
